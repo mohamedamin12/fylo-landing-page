@@ -31,6 +31,12 @@ const Landing = () => {
           </a>
         </div>
       </div>
+      <div className="w-full h-[200px]">
+        <img
+          src="/src/assets/images/bg-curvy-desktop.svg"
+          className="h-full w-full"
+        />
+      </div>
     </section>
   );
 };
